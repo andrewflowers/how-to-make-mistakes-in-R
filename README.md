@@ -4,7 +4,7 @@
 
 R was built by and for statisticians, so it’s not like other programming languages. Its idiocracies can be a source of deep frustration for beginners. But I’d argue there is no better tool for data analysis.
 
-That’s why I’m writing a short e-book *How To Make Mistakes In R* for O’Reilly. It’s modelled after the excellent [*How To Make Mistakes In Python*](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp), by [Mike Pirnat](http://mike.pirnat.com/). 
+That’s why I’m writing a free ebook *How To Make Mistakes In R* for O’Reilly. It’s modelled after the excellent [*How To Make Mistakes In Python*](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp), by [Mike Pirnat](http://mike.pirnat.com/). 
 
 The target audience is all R coders, from those just starting out all the way to the advanced developers. It’ll cover mistakes in set-up, style, and statistics -- and other surprises, too. I’m especially qualified to write this book because I’ve made so many R mistakes in my own work.
 
