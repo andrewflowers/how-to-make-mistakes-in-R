@@ -12,7 +12,7 @@ It's an exciting project, but I need your help. **What are your “favorite” R
 
 I’m looking for all types, ranging from the dead-simple, beginner-level screwups to the subtle, advanced bugs you’ve encountered. Here are a few examples of mistakes I plan to address:
 
-- Function masking due to conflicting pacakges (e.g., dplyr and plyr)
+- Function masking due to conflicting packages (e.g., dplyr and plyr)
 - Repeatedly typing `stringsAsFactors = FALSE`
 - The default `table()` function masking NA values
 - Not using piping (`%>%`) to improve code readability
