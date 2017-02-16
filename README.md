@@ -14,9 +14,9 @@ I’m looking for all types, ranging from the dead-simple, beginner-level screwu
 
 - Function masking due to conflicting pacakges (e.g., dplyr and plyr)
 - Repeatedly typing `stringsAsFactors = FALSE`
-- Liberal use of piping (`%>%`) to improve code readability
-- How the default `table()` function masks NA values
-- Using the `broom` package to standardize the output of statistical models
+- The default `table()` function masking NA values
+- Not using piping (`%>%`) to improve code readability
+- Not using the `broom` package to standardize the output of statistical models
 - Not using GitHub and/or RStudio Projects for collaboration
 
 Send them to me, via [email](mailto:andrew.w.flowers@gmail.com), a [GitHub pull request](https://github.com/andrewflowers/how-to-make-mistakes-in-R) or on [Twitter](https://twitter.com/andrewflowers). The more the merrier. Feel free to contact me multiple times, as you recall your “favorite” R mistakes. 
